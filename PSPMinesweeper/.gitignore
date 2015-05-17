@@ -1,0 +1,14 @@
+!.gitignore
+
+#Ryp custom
+*.kdev4*
+*.bak
+
+#C++
+*.o
+*~
+
+#Targets
+EBOOT.PBP
+PARAM.SFO
+.elf
